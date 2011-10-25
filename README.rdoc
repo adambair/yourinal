@@ -1,0 +1,16 @@
+= Yourinal; Your Terminal
+  
+A collection tools and utilities for your Ruby terminal needs.
+
+== Future
+
+Currenty only a progress indicator, more coming to Yourinal.
+
+== Credit
+
+  Name credit goes to Jim Albano (@JimDAlbano).
+  I was going to call it Coctane; Console Octane or Rubinal.
+  Yourinal; Your Terminal - is far better ;)
+
+  Backup name via Flip Sasser (@flipsasser): PimpMyConsole 
+
