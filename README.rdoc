@@ -2,6 +2,15 @@
   
 A collection tools and utilities for your Ruby terminal needs.
 
+== Usage
+
+Quick and dirty. 
+
+  require 'yourinal'
+  progress = Yourinal::Progress.new
+  result = progress.start {10.times {sleep 0.2}}
+  #=> Starting...done (2.01 seconds)
+
 == Future
 
 Currenty only a progress indicator, more coming to Yourinal.
