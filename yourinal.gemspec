@@ -3,12 +3,12 @@ $:.push File.expand_path("../lib", __FILE__)
 require "yourinal/version"
 
 Gem::Specification.new do |s|
-  s.name        = "Yourinal; Your Terminal"
+  s.name        = "yourinal"
   s.version     = Yourinal::VERSION
   s.authors     = ["Adam Bair"]
   s.email       = ["adambair@gmail.com"]
   s.homepage    = "http://github.com/adambair/yourinal"
-  s.summary     = %q{A collection tools and utilities for your terminal needs.}
+  s.summary     = %q{Yourinal; Your Terminal - A collection tools and utilities for your terminal needs.}
   s.description = %q{Currenty only a progress indicator, more coming to your teriminal}
 
   s.rubyforge_project = "yourinal"
