@@ -13,7 +13,7 @@ Quick and dirty.
 
 == Future
 
-Currenty only a progress indicator, more coming to Yourinal.
+Currenty only a progress indicator, more coming to a Yourinal near you.
 
 == Credit
 
